@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexLeeR
-- 👀 I’m interested in climate science and algorithmic trading. 
+- 👀 I’m interested in climate science and time series
 - 🌱 I’m currently learning Bayesian statistics and machine learing.
 
 <!---
